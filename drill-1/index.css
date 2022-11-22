@@ -1,0 +1,25 @@
+body{
+    background-color: gainsboro;
+
+}
+
+header{
+    background-color:grey;
+    width: 100%;
+    height: 15vh;
+}
+
+main{
+    margin:auto;
+    background-color: white;
+    width: 70%;
+    height: 70vh;
+}
+
+footer{
+    margin:auto;
+    background-color: grey;
+    width: 70%;
+    height: 15vh;
+
+}

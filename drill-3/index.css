@@ -1,0 +1,33 @@
+header {
+    background-color: lightgray;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.square{
+    background-color: rgb(128, 128, 256);
+    width: 50px;
+    height: 50px;
+}
+
+article {
+    padding: 50px;
+}
+
+.rectangle{
+    width: 100%;
+    height: 200px;
+}
+
+.rectangle-1{
+    background-color: rgb(128, 128, 256);
+}
+.rectangle-2{
+    background-color: rgb(100, 245, 245);
+}
+.rectangle-3{
+    background-color: rgb(171, 243, 157);
+}
+.rectangle-4{
+    background-color: rgb(199, 236, 113);
+}
